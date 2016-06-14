@@ -14,4 +14,5 @@ mv bookmarks.xml ~/.local/share/radiotray
 ```
 
 Telepítést követően a Radio Tray programban elindíthatóvá válnak a rádiók.
-<a href="http://gyarakilaszlo.hu/radiotray.png" width="320" />
+
+<a href="http://gyarakilaszlo.hu/radiotray.png"> <img src="http://gyarakilaszlo.hu/radiotray.png" width="320" />
