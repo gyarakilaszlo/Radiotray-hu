@@ -1,7 +1,9 @@
 # Radiotray-hu
 
 Magyar rádiólista a Radio Tray programhoz
+
 Készített: Gyaraki László - <a href="http://www.gyarakilaszlo.hu/">www.gyarakilaszlo.hu</a>
+
 Magyarországi földfelszíni sugárzású rádiók gyűjteménye a Radio Tray programhoz.
 
 Telepítéshez a következő parancsokat kell kiadni egy terminálban:
