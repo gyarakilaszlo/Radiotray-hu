@@ -41,7 +41,7 @@
             </group>
         <bookmark name="Radio Q" url="http://radioszerver.hu:8300/"/>
         <bookmark name="Radió Rock 95.8" url="http://92.61.114.195:13150/"/>
-        <bookmark name="Sláger FM" url="http://109.199.57.91:80/4782/live.mp3"/>
+        <bookmark name="Sláger FM" url="http://92.61.114.159:7812/slagerfm256.mp3"/>
         <bookmark name="Tilos Rádió" url="http://stream.tilos.hu:80/tilos_128.mp3"/>
         <bookmark name="Trend FM" url="http://radio.nordtelekom.hu:8000/gazdasagiradio"/>
     </group>
