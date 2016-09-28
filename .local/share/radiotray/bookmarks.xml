@@ -61,7 +61,7 @@
                 <bookmark name="Sirius Rádió - Kiskunfélegyháza" url="http://91.82.84.179:8500/relay_911"/>
                 <bookmark name="Sirius Rádió - Kiskunmajsa" url="http://91.82.84.179:8500/relay_882"/>
             </group>
-            <bookmark name="Torony Rádió" url="http://37.221.209.105:8040/"/>
+            <bookmark name="Torony Rádió" url="http://87.229.45.44:8020/"/>
         </group>
         <group name="Dél-Dunántúl">
             <bookmark name="Dráva Hullám 102.7" url="http://hosting.42netmedia.com:13070/"/>
