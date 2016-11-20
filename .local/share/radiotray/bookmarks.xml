@@ -86,6 +86,7 @@
         </group>
         <group name="Észak-Magyarország">
             <bookmark name="FM7" url="http://hosting.42netmedia.com:10070"/>
+            <bookmark name="Megafon FM" url="http://85.67.247.154:8000/stream"/>
             <bookmark name="Rádió Eger" url="http://stream.radioeger.hu:18000/"/>
             <bookmark name="Rádió Focus" url="http://streamhost110.gtk.hu:9086/"/>
             <bookmark name="Rádió M" url="http://hosting.42netmedia.com:10060/"/>
