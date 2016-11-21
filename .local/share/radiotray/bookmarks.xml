@@ -32,12 +32,6 @@
                 <bookmark name="Mária Rádió – Várpalota" url="http://honlap.mariaradio.hu:8000/mr_varpalota"/>
                 <bookmark name="Mária Rádió – Veszprém" url="http://honlap.mariaradio.hu:8000/mr_veszprem"/>
             </group>
-            <group name="OzoneFM">
-                <bookmark name="OzoneFM – Balaton" url="http://onair.ozonefm.hu:8004/"/>
-                <bookmark name="OzoneFM – Győr" url="http://o3.hu:9610/"/>
-                <bookmark name="OzoneFM – Miskolc" url="http://onair.ozonefm.hu:8000/"/>
-                <bookmark name="OzoneFM – Szekszárd" url="http://onair.ozonefm.hu:8002/"/>
-            </group>
         <bookmark name="Radio Q" url="http://radioszerver.hu:8300/"/>
         <bookmark name="Radió Rock 95.8" url="http://92.61.114.195:13150/"/>
         <bookmark name="Sláger FM" url="http://92.61.114.159:7812/slagerfm256.mp3"/>
@@ -77,7 +71,6 @@
             <bookmark name="Best FM" url="http://stream.webthings.hu:8000/fm95-x-128.mp3"/>
             <bookmark name="Campus Rádió" url="http://91.83.237.206:8000/frissradio96"/>
             <bookmark name="Debrecen Rádió" url="http://91.82.85.44:80/debrecenradiofm95"/>
-            <bookmark name="Rádió Pont 1" url="http://178.248.200.62:8000/radio.1.mp3"/>
             <bookmark name="Rádió Som" url="http://87.229.45.44:8100/"/>
             <bookmark name="Retro Rádió" url="http://stream.retrofm.hu:8000/listen"/>
             <bookmark name="Sunshine Rádió" url="http://195.56.193.129:8100/"/>
