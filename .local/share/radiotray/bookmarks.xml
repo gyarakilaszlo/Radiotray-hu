@@ -11,7 +11,7 @@
             </group>
     </group>
     <group name="Regionális rádiók">
-        <bookmark name="89.5 Music FM" url="http://79.172.241.238:8000/musicfmhigh"/>
+        <bookmark name="89.5 Music FM" url="http://stream.musicfm.hu:8000/musicfm.mp3"/>
         <bookmark name="96.4 Rádió 1" url="http://stream.radio1.hu:8000/mid.mp3"/>
         <bookmark name="Civil Rádió" url="http://civilradio.hu:8000/listen.mp3"/>
         <bookmark name="Európa Rádió" url="http://radio2.tirek.hu:8000/europaradio"/>
